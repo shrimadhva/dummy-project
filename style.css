@@ -11,6 +11,7 @@ body {
   background: white;
   padding: 40px;
   border-radius: 12px;
+
 }
 
 /* Intentional issue: HTML uses .primary-btn, but CSS expects .action-btn */
@@ -21,7 +22,8 @@ body {
   padding: 12px 24px;
   border-radius: 8px;
   cursor: pointer;
-  font-size: 24px;
+  font-size: 16px;
+
 }
 
 .action-btn:hover {
